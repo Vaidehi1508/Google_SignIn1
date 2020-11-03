@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Google_SignIn</string>
+    <string name="lets_get_started">Lets Get Started</string>
+    <string name="sign_out">Sign out</string>
+    <string name="name">Name</string>
+    <string name="welcome">Welcome</string>
+
+    <string name="Catalogue">Spinner</string>
+    <string-array name ="cat">
+        <item>Programming</item>
+        <item>Finance</item>
+        <item>Designing</item>
+        <item>Marketing</item>
+    </string-array>
+</resources>
